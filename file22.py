@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import *
 import pandas as pd
-from stockextract import analysis
+from stockextraction import analysis
 
 class stockwindow:
     def __init__(self,type):
